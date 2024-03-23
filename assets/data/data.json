@@ -1,0 +1,129 @@
+{
+    "title": "Pablo Vázquez López | Portafolio",
+    "description": "Soy Pablo, tu gato de confianza",
+    "image": "/gato_code.jpeg",
+    "avatar": "/gato_code.jpeg",
+    "name": "Pablo Vázquez López",
+    "skill": "Programador, Ingeniero sin titulo, Mendigo",
+    "location": "Gijón, Asturias, España",
+    "media": {
+        "email": "pablo.vazquez.lopez@protonmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/thomasanderson",
+        "likedin": "https://linkedin.com/in/thomasanderson"
+    },
+    "about": "Soy una persona inquieta y curiosa que le gusta aprender y saber de todo. Por el día pico código y por las noches lo que haya en la nevera.",
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-sql-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-matlab-plain",
+            "name": "Matlab"
+        },
+        {
+            "icon": "devicon-kotlin-plain",
+            "name": "Kotlin"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "Javascript"
+        }
+    ],
+    "experience": [
+
+        {
+            "icon": "terminal",
+            "title": "Investigador",
+            "subtitle": "Investigador IA y robótica",
+            "description": "Hago/Investigo robots cognitivos con IA.",
+            "date": "2018 - 2021"
+        },
+        {
+            "icon": "terminal",
+            "title": "Inverbis Analytics S.L",
+            "subtitle": "Data Scientist",
+            "description": "Mejoro procesos de todo tipo con Data.",
+            "date": "2022 - Actualidad"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "WhatsApp Masivo",
+            "subtitle": "Mi mayor obra de spameo",
+            "description": "Mandaba mensajes/imagenes/videos de forma masiva al grupo o contacto de WhatsApp escogido.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-selenium-plain",
+                    "name": "Selenium"
+                }
+            ],
+            
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Libreria Data Mining",
+            "subtitle": "La libreria de Data Scientist para Data scientist",
+            "description": "Metodos y tecnicas de procesamiento, limpieza y creación de modelos de datos para minar.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Grado en Ingeniería en Tecnologías Industriales",
+            "subtitle": "Universidad de la Coruña",
+            "description": "Mi carrera universitaria",
+            "date": "2013-2019",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Master Ingeniería Industrial",
+            "subtitle": "Universidad de la Coruña",
+            "description": "Master habilitante para ser ingeniero industrial superior.",
+            "date": "2021-2023",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
