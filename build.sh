@@ -2,7 +2,7 @@ python3 -m venv .mistery
 source .mistery/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-rm -rf public
+#rm -rf public
 reflex init
 reflex export --frontend-only
 unzip frontend.zip -d public
