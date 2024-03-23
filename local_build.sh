@@ -7,4 +7,6 @@ reflex init
 reflex export --frontend-only
 unzip frontend.zip -d public
 rm -f frontend.zip
+mv public /home/pol/Escritorio/ESTUDIOS/Front_Proyects/output_public/portafolio
+mv /home/pol/Escritorio/ESTUDIOS/Front_Proyects/output_public/portafolio/public /home/pol/Escritorio/ESTUDIOS/Front_Proyects/output_public/portafolio/public_html
 deactivate
