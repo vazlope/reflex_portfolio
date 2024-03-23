@@ -2,4 +2,5 @@
 *.py[cod]
 .venv
 .web
+/public
 __pycache__/
