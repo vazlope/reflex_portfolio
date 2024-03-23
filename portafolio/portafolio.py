@@ -13,7 +13,7 @@ DATA = data.data
 
 def index() -> rx.Component:
     return rx.center(
-        rx.theme_panel(),
+        #rx.theme_panel(),
         rx.vstack(
             header(DATA),
             about(DATA.about),
